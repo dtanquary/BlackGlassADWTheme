@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+    	<item>app_drawer4</item>
+    	<item>android</item>
     	<item>ic_tray_expand</item>
 		<item>com_a0soft_gphone_atrackdog_trackdog</item>
 		<item>com_aac_cachemate_demo_cachemate</item>
@@ -97,7 +99,7 @@
 		<item>com_seesmic_ui_welcome</item>
 		<item>com_shazam_android_splash</item>
 		<item>com_siriusapplications_quickboot_bootactivity</item>
-		<item>com_skype_android_lite_skypeactivit</item>
+		<item>com_skype_android_lite_skypeactivity</item>
 		<item>com_skype_android_lite_skypeactivity</item>
 		<item>com_slacker_gui_splashscreen</item>
 		<item>com_smartandroidapps_audiowidgetpro_console</item>

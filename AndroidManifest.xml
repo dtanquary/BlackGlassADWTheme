@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.dtanquary.blackglassadwtheme"
-      android:versionCode="4"
-      android:versionName="1.3"
+      android:versionCode="5"
+      android:versionName="1.4"
       android:installLocation="internalOnly">
     <application android:label="@string/theme_title" android:icon="@drawable/theme_icon">
         <activity android:name=".main"
