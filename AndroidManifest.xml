@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.dtanquary.blackglassadwtheme"
-      android:versionCode="5"
-      android:versionName="1.4"
+      android:versionCode="6"
+      android:versionName="1.5"
       android:installLocation="internalOnly">
-    <application android:label="@string/theme_title" android:icon="@drawable/theme_icon">
+    <application android:label="@string/theme_title" android:icon="@drawable/theme_icon3">
         <activity android:name=".main"
-                  android:label="@string/theme_title">
+                  android:label="@string/theme_title"
+                  android:icon="@drawable/theme_icon3">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="org.adw.launcher.THEMES" />
@@ -20,4 +21,4 @@
     </application>
 	<uses-sdk android:minSdkVersion="8"/>
 
-</manifest> 
+</manifest>
