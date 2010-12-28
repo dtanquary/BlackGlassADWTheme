@@ -6,7 +6,7 @@
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
 <string name="theme_description">Please enjoy my first adw theme, &lt;b>Black Glass&lt;/b>.&lt;br/>
 Icons courtesy of  &lt;a href="http://launcherpro.droidicon.com/">droidicon.com&lt;/a>&lt;br/>
-If you like my theme you can &lt;a href="http://www.dtanquary.com/">view more of my work at my site&lt;/a> 
+If you like my theme you can &lt;a href="market://search?q=Dave%20Tanquary">view more in the android market&lt;/a> 
 or &lt;a href="http://www.twitter.com/sn0wmis3r">follow me on twitter&lt;/a>.&lt;br/></string>
 <!-- Theme specific appearance settings -->
 <color name="bubble_color">#B2191919</color>

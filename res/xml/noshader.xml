@@ -9,6 +9,23 @@ Change this document to shader.xml to enable.
 -->
 
 <shader version="1.0">
+
+	<exec t="OA" m="W" v="IA"/>
+	<exec t="OR" m="W" v="IR"/>
+	<exec t="OG" m="W" v="IG"/>
+	<exec t="OB" m="W" v="IB"/>
+	
+	<!--<exec t="OR" m="M" v="II"/>
+    <exec t="OG" m="M" v="II"/>
+    <exec t="OB" m="M" v="II"/>-->
+    
+    <!-- <exec t="OA" m="D" v="1.5"/>
+    
+    <exec t="OR" m="D" v="2"/>
+    <exec t="OG" m="D" v="2"/>
+    <exec t="OB" m="D" v="2"/>-->
+    
+    
  
 </shader>
 
